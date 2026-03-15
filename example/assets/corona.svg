@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300" height="300" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M50 150 L70 180 L90 160 L110 190 L130 170 L150 200 L170 170 L190 190 L210 160 L230 180 L250 150 L250 250 L50 250 Z"
+    fill="url(#goldGradient)" stroke="#B8860B" stroke-width="3"/>
+  <circle cx="60" cy="145" r="8" fill="#DC143C" />
+  <circle cx="100" cy="155" r="8" fill="#4169E1" />
+  <circle cx="150" cy="195" r="10" fill="#DC143C" />
+  <circle cx="200" cy="155" r="8" fill="#4169E1" />
+  <circle cx="240" cy="145" r="8" fill="#DC143C" />
+  <circle cx="80" cy="210" r="6" fill="#9370DB" />
+  <circle cx="110" cy="220" r="7" fill="#DC143C" />
+  <circle cx="150" cy="225" r="8" fill="#FFD700" />
+  <circle cx="190" cy="220" r="7" fill="#DC143C" />
+  <circle cx="220" cy="210" r="6" fill="#9370DB" />
+  <path d="M70 200 L90 210 L110 200 L130 210 L150 200 L170 210 L190 200 L210 210 L230 200"
+    stroke="#DAA520" stroke-width="2" fill="none"/>
+  <g transform="translate(150, 200)">
+    <rect x="-3" y="-25" width="6" height="20" fill="#FFD700" />
+    <rect x="-8" y="-20" width="16" height="6" fill="#FFD700" />
+    <circle cx="0" cy="-28" r="4" fill="#DC143C" />
+  </g>
+  <defs>
+    <linearGradient id="goldGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFD700" />
+      <stop offset="50%" stop-color="#FFA500" />
+      <stop offset="100%" stop-color="#DAA520" />
+    </linearGradient>
+  </defs>
+</svg>

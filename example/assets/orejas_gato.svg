@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M80 200 L60 100 L40 50 Q45 30, 65 35 L100 80 L120 150 L100 200 Z"
+    fill="url(#catGradient)" stroke="#2D2D2D" stroke-width="3"/>
+  <path d="M85 180 L70 110 L55 70 Q58 55, 70 60 L95 95 L110 145 Z"
+    fill="url(#pinkGradient)" stroke="#FF69B4" stroke-width="2"/>
+  <path d="M320 200 L340 100 L360 50 Q355 30, 335 35 L300 80 L280 150 L300 200 Z"
+    fill="url(#catGradient)" stroke="#2D2D2D" stroke-width="3"/>
+  <path d="M315 180 L330 110 L345 70 Q342 55, 330 60 L305 95 L290 145 Z"
+    fill="url(#pinkGradient)" stroke="#FF69B4" stroke-width="2"/>
+  <path d="M75 150 Q70 130, 65 110" stroke="#1A1A1A" stroke-width="1.5" fill="none" opacity="0.3"/>
+  <path d="M85 160 Q80 140, 75 120" stroke="#1A1A1A" stroke-width="1.5" fill="none" opacity="0.3"/>
+  <path d="M95 170 Q90 150, 85 130" stroke="#1A1A1A" stroke-width="1.5" fill="none" opacity="0.3"/>
+  <path d="M325 150 Q330 130, 335 110" stroke="#1A1A1A" stroke-width="1.5" fill="none" opacity="0.3"/>
+  <path d="M315 160 Q320 140, 325 120" stroke="#1A1A1A" stroke-width="1.5" fill="none" opacity="0.3"/>
+  <path d="M305 170 Q310 150, 315 130" stroke="#1A1A1A" stroke-width="1.5" fill="none" opacity="0.3"/>
+  <ellipse cx="90" cy="120" rx="8" ry="12" fill="#FFFFFF" opacity="0.3" />
+  <ellipse cx="75" cy="90" rx="6" ry="10" fill="#FFFFFF" opacity="0.4" />
+  <ellipse cx="310" cy="120" rx="8" ry="12" fill="#FFFFFF" opacity="0.3" />
+  <ellipse cx="325" cy="90" rx="6" ry="10" fill="#FFFFFF" opacity="0.4" />
+  <defs>
+    <linearGradient id="catGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#4A4A4A" />
+      <stop offset="50%" stop-color="#6B6B6B" />
+      <stop offset="100%" stop-color="#3D3D3D" />
+    </linearGradient>
+    <linearGradient id="pinkGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFB6D9" />
+      <stop offset="50%" stop-color="#FF8DC7" />
+      <stop offset="100%" stop-color="#FF69B4" />
+    </linearGradient>
+  </defs>
+</svg>

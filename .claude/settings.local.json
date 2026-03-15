@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(flutter pub:*)",
+      "Bash(find c:/Users/jayo_/hyprar_engine/android -name *.kt)",
+      "Read(//c/Users/jayo_/AppData/Local/Pub/Cache/hosted/pub.dev/image_gallery_saver-2.0.3/android/**)"
+    ]
+  }
+}
